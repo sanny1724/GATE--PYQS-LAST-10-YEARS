@@ -1,0 +1,7 @@
+# Temporary test files
+test_math.pdf
+test_unicode.pdf
+*.tmp
+*.log
+__pycache__/
+.DS_Store
