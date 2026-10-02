@@ -1,6 +1,6 @@
 # GATE CSE Subject-Wise Previous Year Questions (PYQs) (2016 – 2025)
 
-![Watermark](https://img.shields.io/badge/Watermark-%40codeitalone-blue?style=for-the-badge)
+![Watermark](https://img.shields.io/badge/Watermark-%40TECHNITH-blue?style=for-the-badge)
 ![Coverage](https://img.shields.io/badge/GATE_CSE-2016--2025-brightgreen?style=for-the-badge)
 ![Questions](https://img.shields.io/badge/Total_Questions-895-orange?style=for-the-badge)
 ![Subjects](https://img.shields.io/badge/Subjects-13_Categories-purple?style=for-the-badge)
@@ -17,7 +17,7 @@ This repository contains meticulously verified, categorized, and beautifully for
 - **Complete Question Statements & Options**: Includes full problem statements, figure descriptions, and options `(A)`, `(B)`, `(C)`, and `(D)` for Multiple Choice Questions (MCQ) and Multiple Select Questions (MSQ), as well as Numerical Answer Type (NAT) prompts.
 - **Clean Matrix & Vector Formatting**: Raw PDF extraction artifacts (broken bracket glyphs like `⎡`, `⎢`, `⎣`) have been cleaned and aligned into clear rectangular block structures for $2\times2$, $3\times3$, and vector representations.
 - **Mathematical Symbol Integrity**: Fully preserves mathematical, logical, and set-theoretic symbols ($\rightarrow, \times, \int, \in, \lambda, \det, \land, \lor$, etc.) using custom vector font rendering.
-- **Watermarked**: Every page features the custom top-right watermark **`@codeitalone`**.
+- **Watermarked**: Every page features the custom top-right watermark **`@TECHNITH`**.
 
 ---
 
