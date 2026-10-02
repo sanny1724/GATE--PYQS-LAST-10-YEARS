@@ -83,4 +83,4 @@ Question X of Y  |  GATE <Year> <Set>  |  Q.<Original_Number> (<Section>)
 
 ## 🛠️ Created & Maintained By
 
-Maintained with ❤️ for GATE Aspirants by **[@codeitalone](https://github.com/CodeItAlone)**.
+Maintained with ❤️ for GATE Aspirants by **[TECHNITH](https://github.com/sanny1724)**.
